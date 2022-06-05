@@ -1,4 +1,4 @@
-# Not-Ortalamas-Hesaplayan-Program
+# Not-Ortalaması-Hesaplayan-Program
 
 import java.util.Scanner;
 public class proje {
